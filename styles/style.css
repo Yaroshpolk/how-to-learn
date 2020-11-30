@@ -118,6 +118,9 @@
 }
 
 .two-columns__span-accent {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: bold;
   margin-top: 30px;
   margin-bottom: 30px;
 }
@@ -141,12 +144,6 @@
 .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
-}
-
-.two-columns__span-accent {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: bold;
 }
 
 .digits {
@@ -254,7 +251,7 @@
 }
 
 .feynman__subtitle {
-  margin: 70px auto 0 auto ;
+  margin: 70px auto 0 auto;
   display: inline-block;
   z-index: 1;
 }
