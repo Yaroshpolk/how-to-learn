@@ -128,12 +128,12 @@
   margin: 0;
 }
 
-.two-columns__paragraph:first-child {
+.two-columns__paragraph {
   margin-bottom: 30px;
 }
 
 .two-columns__paragraph:last-child {
-  margin-top: 30px;
+  margin-bottom: 0;
 }
 
 .digits {
