@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f399adcd-a365-423e-a0d9-2fb7e3204831" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/cards/__description/cards__description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cards/__image/cards__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cards/__item/cards__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cards/__title/cards__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__author/khan__author.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__book-container/khan__book-container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__container/khan__container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__quote-author-subline/khan__quote-author-subline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__quote/khan__quote.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/__title/khan__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/khan/khan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/oakley/oakley.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/resources/resources.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/digits/digits.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/digits.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/feynman/feynman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/feynman.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/rotation/header-square.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rotation/animation-rotate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/resources.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/resources.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +58,7 @@
       <workItem from="1606820445658" duration="808000" />
       <workItem from="1606907707209" duration="1510000" />
       <workItem from="1607069206077" duration="33000" />
-      <workItem from="1608023423929" duration="17762000" />
+      <workItem from="1608023423929" duration="18185000" />
     </task>
     <servers />
   </component>
