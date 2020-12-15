@@ -2,7 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f399adcd-a365-423e-a0d9-2fb7e3204831" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/digits/digits.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/feynman/__illustration/feynman__illustration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/feynman/__link/feynman__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/feynman/__subtitle/feynman__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/feynman/__title/feynman__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/feynman/feynman.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__column-heading/footer__column-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__columns/footer__columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/_column-links/footer_column-links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__main-illustration/header__main-illustration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/logo/_place/logo_place_header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__cell/table__cell.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__heading/_theme/table__heading_theme_dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__heading/table__heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__text/_theme/table__text_theme_dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__text/table__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/_theme/table_theme_dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/__main-text/two-columns__main-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/__paragraph/two-columns__paragraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/__span-accent/two-columns__span-accent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-competence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-interliving.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-recall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/khan-book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-arzamas.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-n1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-polka.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-strelka.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,21 +71,38 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l0FT8fRmIyLTwyYPhcFog5W03J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\how-to-learn\vendor" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,18 +114,23 @@
       <updated>1606726106935</updated>
       <workItem from="1606726108011" duration="21360000" />
       <workItem from="1606820445658" duration="808000" />
-      <workItem from="1606907707209" duration="891000" />
+      <workItem from="1606907707209" duration="1510000" />
+      <workItem from="1607069206077" duration="33000" />
+      <workItem from="1608023423929" duration="4064000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606822776974">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607069236329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.288.1378.900@0.0.1920.1040" timestamp="1606822776974" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.288.1378.900@0.0.1920.1040" timestamp="1607069236329" />
     <state x="854" y="62" key="SettingsEditor" timestamp="1606726248254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
