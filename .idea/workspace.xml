@@ -3,8 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="f399adcd-a365-423e-a0d9-2fb7e3204831" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cards/__image/cards__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__image/cards__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cards/__item/cards__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__item/cards__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-heading/footer__column-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-heading/footer__column-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-link/footer__column-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/_column-links/footer_column-links.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rotation/animation-rotate.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rotation/animation-rotate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +71,8 @@
       <workItem from="1606820445658" duration="808000" />
       <workItem from="1606907707209" duration="1510000" />
       <workItem from="1607069206077" duration="33000" />
-      <workItem from="1608023423929" duration="18541000" />
+      <workItem from="1608023423929" duration="19177000" />
+      <workItem from="1608102493045" duration="1654000" />
     </task>
     <servers />
   </component>

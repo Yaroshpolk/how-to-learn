@@ -2,3 +2,7 @@
   width: 270px;
   height: 30px;
 }
+
+.resources__logo:hover {
+  opacity: .5;
+}
